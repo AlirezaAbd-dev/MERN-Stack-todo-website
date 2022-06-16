@@ -900,3 +900,12 @@
 {"level":"info","message":"db connected"}
 {"level":"info","message":"db connected"}
 {"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"error","message":"res.headers is not a function res.headers is not a function","stack":"TypeError: res.headers is not a function\n    at register (C:\\Users\\Ideapad 5\\Desktop\\JavaScript Projects\\Todo List App\\app\\http\\controller\\userController.js:59:13)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}

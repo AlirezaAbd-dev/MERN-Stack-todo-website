@@ -27,7 +27,7 @@ module.exports = class {
 
         const token = jwt.sign(data, config.get("userWebToken"))
 
-        res.header("Access-Expose-Allow-Headers", "x-auth-token").header("x-auth-token", token).send(true)
+        res.header("Access-Control-Expose-Headers", "x-auth-token").header("x-auth-token", token).send(true)
     }
 
     async register(req, res) {
@@ -56,7 +56,7 @@ module.exports = class {
 
         const token = jwt.sign(data, config.get("userWebToken"))
 
-        res.header("Access-Expose-Allow-Headers", "x-auth-token").header("x-auth-token", token).send(true)
+        res.header("Access-Control-Expose-headers", "x-auth-token").header("x-auth-token", token).send(true)
     }
 
     async getList(req, res) {
