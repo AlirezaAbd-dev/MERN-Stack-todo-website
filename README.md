@@ -58,8 +58,8 @@ Now after installing dependencies you can run the server with  ``~ npm run start
 
 <br>
 
-and then go to the ``public`` folder and open ``index.html`` in browser
+And then go to the ``public`` folder and open ``index.html`` in browser
 
 <br>
 
-congratulations ,now you can ``signup`` and use the website
+Congratulations ,now you can ``signup`` and use the website
