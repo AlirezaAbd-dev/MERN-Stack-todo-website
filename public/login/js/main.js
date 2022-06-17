@@ -16,7 +16,7 @@ window.addEventListener("load", e => {
 
         axios.post("http://localhost:3000/api/user/login", data).then((res) => {
             localStorage.setItem("token",res.headers["x-auth-token"])
-            window.location.assign("../../index.html")
+            window.location.assign("../../../public/index.html")
         }).catch((err) => {
             alert(err.response.data);
             document.getElementById("login-form").reset();
