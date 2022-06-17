@@ -15,7 +15,7 @@
     <h2>SignUp</h2>
     <img style='border-radius:5px' src="#"></img>
     <br><br><br>
-    <h2>SignUp</h2>
+    <h2>Main</h2>
     <img style='border-radius:5px' src="#"></img>
 </div>
 <hr>
