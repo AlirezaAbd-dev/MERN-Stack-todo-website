@@ -1,3 +1,14 @@
 .done{
 text-decoration: line-through;
 }
+.cursor{
+    cursor: pointer;
+}
+.signout{
+    font-size:30px;
+    color: red;
+    position: fixed;
+    left: 10px;
+    top: 10px;
+    cursor: pointer;
+}
