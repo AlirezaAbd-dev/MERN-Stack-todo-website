@@ -10,7 +10,7 @@ router.post("/user/register",users.register);
 
 router.get("/list/getList",Auth,users.getList);
 router.post("/list/addTodo",Auth,users.addTodo);
-router.put("/list/editTodo/:id",Auth,users.editTodo);
+router.get("/list/editTodo/:id",Auth,users.editTodo);
 router.delete("/list/deleteTodo/:id",Auth,users.deleteTodo);
 
 

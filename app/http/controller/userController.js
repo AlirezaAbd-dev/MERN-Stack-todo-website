@@ -61,7 +61,7 @@ module.exports = class {
 
     async getList(req, res) {
         const user = await UserModel.findById(req.user._id)
-        if (!user) return res.status(404).send("کاربر مورد نظر بافت نشد!")
+        if (!user) return res.status(404).send("کاربر مورد نظر یافت نشد!")
 
         res.send(user.todo)
     }
@@ -71,19 +71,19 @@ module.exports = class {
         if(error) return res.status(400).send(error.message)
 
         const user = await UserModel.findById(req.user._id)
-        if (!user) return res.status(404).send("کاربر مورد نظر بافت نشد!")
+        if (!user) return res.status(404).send("کاربر مورد نظر یافت نشد!")
 
         user.todo.push(req.body)
         const result=await user.save()
 
-        res.send(result.todo)
+        res.send(true)
     }
 
     async editTodo(req,res){
         const id=req.params.id
 
         const user = await UserModel.findById(req.user._id)
-        if(!user) return res.status(404).send("کاربر مورد نظر بافت نشد!")
+        if(!user) return res.status(404).send("کاربر مورد نظر یافت نشد!")
 
         const check=user.todo.find(item => item._id==id)
         if(!check) return res.status(404).send("گزینه مورد نظر یافت نشد!")
