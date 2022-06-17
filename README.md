@@ -9,14 +9,14 @@
 <br><br><br>
 <div align='center'>
     <h2>LogIn</h2>
-    <img style='border-radius:5px' src="#"></img>
+    <img style='border-radius:5px' src="https://github.com/0AliReza0/todo-list-website/blob/4ac8d06ecaf8bd2fa73d0bc4e820c2871dae92b5/public/images/Screenshot%202022-06-17%20205307.png"></img>
     <br>
     <br><br><br>
     <h2>SignUp</h2>
-    <img style='border-radius:5px' src="#"></img>
+    <img style='border-radius:5px' src="https://github.com/0AliReza0/todo-list-website/blob/4ac8d06ecaf8bd2fa73d0bc4e820c2871dae92b5/public/images/Screenshot%202022-06-17%20205328.png"></img>
     <br><br><br>
     <h2>Main</h2>
-    <img style='border-radius:5px' src="#"></img>
+    <img style='border-radius:5px' src="https://github.com/0AliReza0/todo-list-website/blob/4ac8d06ecaf8bd2fa73d0bc4e820c2871dae92b5/public/images/Screenshot%202022-06-17%20205912.png"></img>
 </div>
 <hr>
 
@@ -46,7 +46,7 @@
 
 <h1 align='center'><b>How To Run</b></h1>
 
-At first you have to clone the project and open it in IDE
+At first you have to clone the project and open it in ``IDE``
 
 <br>
 
@@ -54,8 +54,8 @@ After that open the terminal and write  ``~ npm run start``
 
 <br>
 
-and then go to the public folder and open index.html in browser
+and then go to the ``public`` folder and open ``index.html`` in browser
 
 <br>
 
-congratulations ,now you can signup and use the website
+congratulations ,now you can ``signup`` and use the website
