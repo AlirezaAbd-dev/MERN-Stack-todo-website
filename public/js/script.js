@@ -94,5 +94,5 @@ if (!token)
     const logOut=document.getElementById("sign-out")
     logOut.addEventListener("click",e=>{
         localStorage.clear()
-        window.location.assign("../../public/login/login.html")
+        window.location.assign("../public/login/login.html")
     })
