@@ -50,7 +50,11 @@ At first you have to clone the project and open it in ``IDE``
 
 <br>
 
-After that open the terminal and write  ``~ npm run start``
+After that open the terminal and write  ``~ npm i``
+
+<br>
+
+Now after installing dependencies you can run the server with  ``~ npm run start``
 
 <br>
 
