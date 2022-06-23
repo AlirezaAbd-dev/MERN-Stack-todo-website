@@ -44,6 +44,17 @@
 
 <br><br><br><br>
 
+<h1 align='center'><b>Requirements</b></h1>
+
+Download and install ``NodeJS`` from official website <a href="https://nodejs.org/">nodeJS.org</a>
+
+<br>
+
+Download and install ``MongoDB`` from official website <a href="https://www.mongodb.com/try/download/community">mongoDB.com</a>
+
+
+<br><br><br><br>
+
 <h1 align='center'><b>How To Run</b></h1>
 
 At first you have to clone the project and open it in ``IDE``
