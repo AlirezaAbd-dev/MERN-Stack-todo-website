@@ -1,0 +1,14 @@
+.done{
+text-decoration: line-through;
+}
+.cursor{
+    cursor: pointer;
+}
+.signout{
+    font-size:30px;
+    color: rgb(59, 59, 59);
+    position: fixed;
+    left: 10px;
+    top: 10px;
+    cursor: pointer;
+}
