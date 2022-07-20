@@ -16,7 +16,7 @@
     <img style='border-radius:5px' src="https://github.com/0AliReza0/todo-list-website/blob/4ac8d06ecaf8bd2fa73d0bc4e820c2871dae92b5/public/images/Screenshot%202022-06-17%20205328.png"></img>
     <br><br><br>
     <h2>Main</h2>
-    <img style='border-radius:5px' src="https://github.com/0AliReza0/todo-list-website/blob/4ac8d06ecaf8bd2fa73d0bc4e820c2871dae92b5/public/images/Screenshot%202022-06-17%20205912.png"></img>
+    <img style='border-radius:5px' src="https://github.com/0AliReza0/todo-list-website/blob/bf8e78f50ecac4cb919de828eac66acd63ca2d3c/images/main.png"></img>
 </div>
 <hr>
 
@@ -61,15 +61,23 @@ At first you have to clone the project and open it in ``IDE``
 
 <br>
 
-After that open the terminal and write  ``~ npm i``
+Open IDE's terminal and then write  ``~ cd server`` and enter
 
 <br>
 
-Now after installing dependencies you can run the server with  ``~ npm run start``
+After that write  ``~ npm i`` and enter
 
 <br>
 
-And then go to the ``public`` folder and open ``index.html`` in browser
+type ``~ npm start``
+
+<br>
+
+Now open another terminal and write ``~ cd client``
+
+<br>
+
+And then write ``~ npm i`` and ``~ npm start``
 
 <br>
 
