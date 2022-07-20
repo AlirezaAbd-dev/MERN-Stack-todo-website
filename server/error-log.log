@@ -1,0 +1,44 @@
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"code":"ERR_HTTP_INVALID_STATUS_CODE","level":"error","message":"Invalid status code: 3 Invalid status code: 3","stack":"RangeError [ERR_HTTP_INVALID_STATUS_CODE]: Invalid status code: 3\n    at new NodeError (node:internal/errors:371:5)\n    at ServerResponse.writeHead (node:_http_server:274:11)\n    at ServerResponse._implicitHeader (node:_http_server:265:8)\n    at ServerResponse.end (node:_http_outgoing:871:10)\n    at ServerResponse.send (C:\\Users\\Ideapad 5\\Desktop\\JS Projects\\GitHub\\Todo List App\\node_modules\\express\\lib\\response.js:232:10)\n    at addTodo (C:\\Users\\Ideapad 5\\Desktop\\JS Projects\\GitHub\\Todo List App\\app\\http\\controller\\userController.js:79:13)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'remove') Cannot read properties of undefined (reading 'remove')","stack":"TypeError: Cannot read properties of undefined (reading 'remove')\n    at deleteTodo (C:\\Users\\Ideapad 5\\Desktop\\JS Projects\\GitHub\\Todo List App\\app\\http\\controller\\userController.js:110:55)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'remove') Cannot read properties of undefined (reading 'remove')","stack":"TypeError: Cannot read properties of undefined (reading 'remove')\n    at deleteTodo (C:\\Users\\Ideapad 5\\Desktop\\JS Projects\\GitHub\\Todo List App\\app\\http\\controller\\userController.js:110:55)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
+{"level":"info","message":"db connected"}
