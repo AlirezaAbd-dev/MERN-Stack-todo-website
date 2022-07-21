@@ -3,7 +3,7 @@
 </div>
 <br><br><br>
 <h2 align='center'>
-    This is a website for you to write what you want to do after or done befor and manage it.
+    This is a website for you to write what you want to do after or done before and manage it.
 </h2>
 
 <br><br><br>
