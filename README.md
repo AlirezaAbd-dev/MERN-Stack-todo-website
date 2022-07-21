@@ -70,7 +70,7 @@ Open IDE's terminal and then write  ``~ cd server`` and enter
 
 <br>
 
-After that write  ``~ npm i`` and enter
+After that write ``~ npm init`` and enter, after that ``~ npm i`` and enter
 
 <br>
 
